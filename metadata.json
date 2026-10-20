@@ -1,0 +1,6 @@
+{
+  "name": "Dunia Pintar Anak - Game Edukasi Ceria",
+  "description": "Game edukasi anak-anak yang ceria, interaktif, dan mudah dimainkan dengan aneka mini-game asah otak: Berhitung, Memori, Bentuk & Warna, Ejaan Kata, Balon Pop, dan Buku Mewarnai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
